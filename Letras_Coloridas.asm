@@ -2,7 +2,7 @@ org 0x7c00
 jmp start
 
 data:
-	msg db "Salve Salve Salve", 0
+	msg db "Hello World", 0
 
 start:
 	xor ax, ax
