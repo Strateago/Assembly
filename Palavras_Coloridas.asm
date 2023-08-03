@@ -2,7 +2,7 @@ org 0x7c00
 jmp start
 
 data:
-	msg db "Infra de Software Sla", 0
+	msg db "Teste para mudar a cor", 0
 start:
 	xor ax, ax
 	mov bx, ax
